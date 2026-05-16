@@ -65,20 +65,6 @@
   * [1月综合报告](./docs/2026-01/综合报告-1月.md)
   * [年度经济展望](./docs/2026-01/年度展望.md)
 
----
-
-## 📂 分类总览
-
-* [🏛️ 政治动态](./docs/category/政治动态.md)
-* [📈 经济贸易](./docs/category/经济贸易.md)
-* [🙏 宗教文化](./docs/category/宗教文化.md)
-* [🏗️ 基础设施](./docs/category/基础设施.md)
-* [🌐 外交关系](./docs/category/外交关系.md)
-* [🛡️ 国防安全](./docs/category/国防安全.md)
-* [📚 教育科研](./docs/category/教育科研.md)
-* [🌍 国际组织](./docs/category/国际组织.md)
-
----
 
 ## 📚 资料
 
